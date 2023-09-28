@@ -1,5 +1,6 @@
 {
     "enableTraffic": true,
     "enableCrash": false,
-    "enableMap": true
+    "enableMap1": true,
+    "enableMap2": true
 }
