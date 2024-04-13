@@ -42,27 +42,27 @@
                 "orderAndroid": 1,
                 "orderiOS": 1,
                 "orderWindows": 1,
-                "weightAndroid": 0,
-                "weightiOS": 0,
-                "weightWindows": 0
+                "weightAndroid": 1,
+                "weightiOS": 1,
+                "weightWindows": 1
             },
             "interstitialSettings": {
                 "adType": 2,
                 "orderAndroid": 1,
                 "orderiOS": 1,
                 "orderWindows": 1,
-                "weightAndroid": 0,
-                "weightiOS": 0,
-                "weightWindows": 0
+                "weightAndroid": 1,
+                "weightiOS": 1,
+                "weightWindows": 1
             },
             "rewardedSettings": {
                 "adType": 3,
                 "orderAndroid": 1,
                 "orderiOS": 1,
                 "orderWindows": 1,
-                "weightAndroid": 0,
-                "weightiOS": 0,
-                "weightWindows": 0
+                "weightAndroid": 1,
+                "weightiOS": 1,
+                "weightWindows": 1
             }
         }
     ]
