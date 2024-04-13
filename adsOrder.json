@@ -4,7 +4,7 @@
     "rewardedMediation": 0,
     "advertisers": [
         {
-            "advertiser": 0,
+            "advertiser": 6,
             "advertiserName": "Admob",
             "bannerSettings": {
                 "adType": 1,
@@ -35,7 +35,7 @@
             }
         },
         {
-            "advertiser": 6,
+            "advertiser": 0,
             "advertiserName": "AppLovin",
             "bannerSettings": {
                 "adType": 1,
