@@ -42,7 +42,7 @@
                 "orderAndroid": 1,
                 "orderiOS": 1,
                 "orderWindows": 1,
-                "weightAndroid": 2,
+                "weightAndroid": 0,
                 "weightiOS": 1,
                 "weightWindows": 1
             },
