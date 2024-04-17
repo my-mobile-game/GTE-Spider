@@ -9,7 +9,7 @@
             "bannerSettings": {
                 "adType": 1,
                 "orderAndroid": 1,
-                "orderiOS": 2,
+                "orderiOS": 1,
                 "orderWindows": 2,
                 "weightAndroid": 0,
                 "weightiOS": 2,
@@ -18,7 +18,7 @@
             "interstitialSettings": {
                 "adType": 2,
                 "orderAndroid": 1,
-                "orderiOS": 2,
+                "orderiOS": 1,
                 "orderWindows": 2,
                 "weightAndroid": 1,
                 "weightiOS": 1,
@@ -27,7 +27,7 @@
             "rewardedSettings": {
                 "adType": 3,
                 "orderAndroid": 1,
-                "orderiOS": 2,
+                "orderiOS": 1,
                 "orderWindows": 2,
                 "weightAndroid": 1,
                 "weightiOS": 1,
@@ -40,7 +40,7 @@
             "bannerSettings": {
                 "adType": 1,
                 "orderAndroid": 2,
-                "orderiOS": 1,
+                "orderiOS": 2,
                 "orderWindows": 1,
                 "weightAndroid": 0,
                 "weightiOS": 0,
@@ -49,7 +49,7 @@
             "interstitialSettings": {
                 "adType": 2,
                 "orderAndroid": 2,
-                "orderiOS": 1,
+                "orderiOS": 2,
                 "orderWindows": 1,
                 "weightAndroid": 1,
                 "weightiOS": 1,
@@ -58,7 +58,7 @@
             "rewardedSettings": {
                 "adType": 3,
                 "orderAndroid": 2,
-                "orderiOS": 1,
+                "orderiOS": 2,
                 "orderWindows": 1,
                 "weightAndroid": 1,
                 "weightiOS": 1,
