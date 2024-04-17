@@ -8,7 +8,7 @@
             "advertiserName": "Admob",
             "bannerSettings": {
                 "adType": 1,
-                "orderAndroid": 2,
+                "orderAndroid": 1,
                 "orderiOS": 2,
                 "orderWindows": 2,
                 "weightAndroid": 0,
@@ -17,7 +17,7 @@
             },
             "interstitialSettings": {
                 "adType": 2,
-                "orderAndroid": 2,
+                "orderAndroid": 1,
                 "orderiOS": 2,
                 "orderWindows": 2,
                 "weightAndroid": 1,
@@ -26,7 +26,7 @@
             },
             "rewardedSettings": {
                 "adType": 3,
-                "orderAndroid": 2,
+                "orderAndroid": 1,
                 "orderiOS": 2,
                 "orderWindows": 2,
                 "weightAndroid": 1,
@@ -39,7 +39,7 @@
             "advertiserName": "AppLovin",
             "bannerSettings": {
                 "adType": 1,
-                "orderAndroid": 1,
+                "orderAndroid": 2,
                 "orderiOS": 1,
                 "orderWindows": 1,
                 "weightAndroid": 0,
@@ -48,7 +48,7 @@
             },
             "interstitialSettings": {
                 "adType": 2,
-                "orderAndroid": 1,
+                "orderAndroid": 2,
                 "orderiOS": 1,
                 "orderWindows": 1,
                 "weightAndroid": 1,
@@ -57,7 +57,7 @@
             },
             "rewardedSettings": {
                 "adType": 3,
-                "orderAndroid": 1,
+                "orderAndroid": 2,
                 "orderiOS": 1,
                 "orderWindows": 1,
                 "weightAndroid": 1,
